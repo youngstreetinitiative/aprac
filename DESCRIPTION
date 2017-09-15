@@ -1,0 +1,9 @@
+Package: aprac
+Title: For practice in building Shiny apps.
+Version: 0.0.0.9000
+Authors@R: person("Alexander", "Millard", email = "alxmilla@bigpond.net.au@gmail.com", role = c("aut", "cre"))
+Description: For practice in building Shiny apps.
+Depends: R (>= 3.4.1), tidyverse
+License: MIT
+Encoding: UTF-8
+LazyData: true
